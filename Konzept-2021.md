@@ -26,6 +26,7 @@
 
 ## Hinweise für die Gäste
 
+- Wir nehmen mit [StudioLink](https://studio-link.de) auf. Installiere dir gerne schon im Vorfeld den Client auf deinem Rechner. Die Adresse zum Verbinden bekommst du dann natürlich mitgeteilt.
 - Schau dir gerne den Fragensatz an und bereite dich kurz vor, damit wir die Folge schnell produzieren können und du fließend sprechen kannst.
 - Trinke bitte vorher keine Kohlensäure-haltigen Getränke, das lässt Menschen in unpassenden Situationen rülpsen/aufstoßen und beeinflusst die Stimme ;)
 - Finde dich zur Aufnahme in einem ruhigen Raum ohne Störungen ein, idealerweise mit wenig Hall.
@@ -37,6 +38,8 @@
 "Hallo und Willkommen zum iFSR-Wahlpodcast im Jahr 2021! Mein Name ist <Moderation>, ich studiere <Studiengang>  an der TU Dresden und bin selbst Mitglied im Fachschaftsrat. Da jetzt wieder Wahlen anstehen und sich einige Menschen neu engagieren, möchten wir sie euch natürlich vorstellen! Dazu begrüße ich meinen heutigen Gast, <Vornamen> <Nachname>! [Hi/Hallo/Hey] <Vorname 1>!"
 	
 Es folgt der Fragensatz.
+
+Die Vorstellung der Moderation kann entfallen, wenn sich die Person schon in einer früheren Folge vorgestellt hat ;)
 	
 ## Technisches
 
